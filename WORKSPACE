@@ -28,7 +28,7 @@ maven_install(
         "com.fasterxml.jackson.core:jackson-databind:jar:2.12.5",
         "io.javalin:javalin:jar:3.13.11",
         "javax.inject:javax.inject:1",
-        "junit:junit:4.13",
+        "junit:junit:4.13.2",
         "org.apache.logging.log4j:log4j-core:jar:2.14.1",
         "org.apache.logging.log4j:log4j-slf4j-impl:jar:2.14.1",
     ],
