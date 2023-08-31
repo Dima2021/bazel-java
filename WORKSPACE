@@ -22,7 +22,7 @@ maven_install(
         "com.google.dagger:dagger-compiler:2.38.1",
         "com.google.dagger:dagger-producers:2.38.1",
         "com.google.dagger:dagger-spi:2.38.1",
-        "com.google.dagger:dagger:2.38.1",
+        "com.google.dagger:dagger:2.48",
         "com.google.googlejavaformat:google-java-format:1.9",
         "com.google.guava:guava:29.0-jre",
         "com.fasterxml.jackson.core:jackson-databind:jar:2.12.5",
