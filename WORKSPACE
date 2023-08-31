@@ -20,7 +20,7 @@ maven_install(
     artifacts = [
         "com.google.code.findbugs:jsr305:3.0.2",
         "com.google.dagger:dagger-compiler:2.38.1",
-        "com.google.dagger:dagger-producers:2.38.1",
+        "com.google.dagger:dagger-producers:2.48",
         "com.google.dagger:dagger-spi:2.38.1",
         "com.google.dagger:dagger:2.38.1",
         "com.google.googlejavaformat:google-java-format:1.9",
